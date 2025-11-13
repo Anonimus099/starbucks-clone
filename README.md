@@ -7,29 +7,41 @@ A responsive clone of the Starbucks website featuring a fully functional user re
 Registration System
 
 ✅ Register new users
+
 ✅ Form validation
+
 ✅ Password strength enforcement
+
 ✅ Email uniqueness check
+
 ✅ Auto-login after registration
 
 Login System
 
 ✅ Login with email and password
+
 ✅ User existence check
+
 ✅ Maintain login session
+
 ✅ Prevent repeated login attempts
 
 Profile Management
 
 ✅ Display user info
+
 ✅ Profile page with detailed info
+
 ✅ Logout functionality
+
 ✅ Responsive design
 
 Admin Panel
 
 ✅ View all registered users
+
 ✅ Clear all user data
+
 ✅ Display registration timestamps
 
 📁 Project Structure
