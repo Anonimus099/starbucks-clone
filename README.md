@@ -2,7 +2,7 @@ Starbucks Coffee Company | Clone
 
 A responsive clone of the Starbucks website featuring a fully functional user registration and login system.
 
-🚀 Features
+## 🚀 Features
 
 Registration System
 
@@ -44,23 +44,23 @@ Admin Panel
 
 ✅ Display registration timestamps
 
-📁 Project Structure
+## 📁 Project Structure
 starbucks/
-├── index.html          # Home page
-├── signin.html         # Login page
-├── join.html           # Registration page
-├── profile.html        # User profile page
-├── admin.html          # Admin panel
-├── starbucks.js        # Main JS file
-├── signin.js           # Login logic
-├── join.js             # Registration logic
-├── style/
-│   ├── starbucks.css   # Main styles
-│   ├── signin.css      # Login/registration styles
-│   └── join.css        # Registration page styles
-└── img/                # Images & icons
+### ├── index.html          ### Home page
+### ├── signin.html         ### Login page
+### ├── join.html           ### Registration page
+### ├── profile.html        ### User profile page
+### ├── admin.html          ### Admin panel
+### ├── starbucks.js        ### Main JS file
+### ├── signin.js           ### Login logic
+### ├── join.js             ### Registration logic
+### ├── style/
+### │   ├── starbucks.css   ### Main styles
+### │   ├── signin.css      ### Login/registration styles
+### │   └── join.css        ### Registration page styles
+### └── img/                ### Images & icons
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5 – Page structure
 
@@ -72,7 +72,7 @@ LocalStorage – Store user data locally
 
 Responsive Design – Mobile-friendly layout
 
-📋 Password Requirements
+## 📋 Password Requirements
 
 Minimum 8 characters
 
@@ -84,7 +84,7 @@ At least 1 number
 
 At least 1 special character (!@#$%^&*(),.?":{}|<>)
 
-🔐 Security
+## 🔐 Security
 
 Input validation on all fields
 
@@ -96,7 +96,7 @@ Email format checking
 
 Login session tracking
 
-🎨 Design Highlights
+## 🎨 Design Highlights
 
 Modern, clean interface
 
@@ -108,7 +108,7 @@ Fully responsive & mobile-friendly
 
 Intuitive navigation
 
-🚀 How to Run
+## 🚀 How to Run
 
 Download all project files
 
@@ -116,7 +116,7 @@ Open index.html in your browser
 
 To test the admin panel, open admin.html
 
-📱 Supported Browsers
+## 📱 Supported Browsers
 
 Chrome (recommended)
 
@@ -126,7 +126,7 @@ Safari
 
 Edge
 
-🔧 Usage
+## 🔧 Usage
 
 Register New Users
 
@@ -154,7 +154,7 @@ Open admin.html
 
 View all users and use Clear all users to reset
 
-📊 Data Storage
+## 📊 Data Storage
 
 Stored locally in browser's LocalStorage:
 
@@ -162,7 +162,7 @@ starbucksUsers – array of all users
 
 currentUser – currently logged-in user
 
-🔄 Updates
+## 🔄 Updates
 
 Version 1.0
 
@@ -176,7 +176,7 @@ Version 1.0
 
 ✅ Responsive design
 
-📞 Support
+## 📞 Support
 
 Check browser console for errors
 
