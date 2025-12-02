@@ -46,14 +46,14 @@ Admin Panel
 
 ## 📁 Project Structure
 starbucks/
-#### ├── index.html          #### Home page
-#### ├── signin.html         #### Login page
-#### ├── join.html           #### Registration page
-#### ├── profile.html        #### User profile page
-#### ├── admin.html          #### Admin panel
-#### ├── starbucks.js        #### Main JS file
-#### ├── signin.js           #### Login logic
-#### ├── join.js             #### Registration logic
+#### ├── index.html           Home page
+#### ├── signin.html          Login page
+#### ├── join.html            Registration page
+#### ├── profile.html         User profile page
+#### ├── admin.html           Admin panel
+#### ├── starbucks.js         Main JS file
+#### ├── signin.js            Login logic
+#### ├── join.js              Registration logic
 #### ├── style/
 #### │   ├── starbucks.css   #### Main styles
 #### │   ├── signin.css      #### Login/registration styles
