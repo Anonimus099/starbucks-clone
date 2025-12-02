@@ -62,11 +62,11 @@ starbucks/
 
 ## 🛠️ Technologies Used
 
-HTML5 – Page structure
-
-CSS3 / TailwindCSS (if used) – Styling & responsive design
-
-JavaScript (ES6+) – Interactivity & logic
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,vscode" />
+  </a>
+</p>
 
 LocalStorage – Store user data locally
 
