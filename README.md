@@ -62,11 +62,7 @@ starbucks/
 
 ## 🛠️ Technologies Used
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,vscode" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=git,js,html,css,vscode" />
 
 LocalStorage – Store user data locally
 
